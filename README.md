@@ -1,2 +1,2 @@
 # SelfStudy-TrainingsDead
-The development of free compact handy textbooks with full information about the relevant subject.
+Development of free compact handy basic textbooks with complete information on the relevant subject.
